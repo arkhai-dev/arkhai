@@ -1,5 +1,3 @@
-![ARKHAI — Same email. Work continues.](docs/assets/arkhai-banner.svg)
-
 <div align="center">
 
 # ARKHAI
